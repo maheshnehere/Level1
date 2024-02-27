@@ -1,4 +1,4 @@
-package com.chatgpt.nonparameterized;
+package com.chatgpt;
 
 public class SimpleCalculater2 {
 
